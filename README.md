@@ -1,4 +1,5 @@
-# LPU SIMS (Student Information Management System) (C Language)
+# LPU SIMS 
+# Student Information Management System (C Language)
 First Sem Project (B.Tech CSE) (Lovely Professional University)
 
 ## Authentication
@@ -11,4 +12,7 @@ First Sem Project (B.Tech CSE) (Lovely Professional University)
     Windows
       Open It In Visual Studio or DevCpp
 
-### Enjoy!!
+## Notes
+  - <kbd>conio.h</kbd> Header File Included For Linux/Unix Users <kbd>(./header/linux_conio.h)</kbd>
+  
+### Enjoy !!
