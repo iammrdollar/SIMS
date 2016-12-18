@@ -27,37 +27,37 @@ First Sem Project (B.Tech CSE) (Lovely Professional University)
 ## SCREENSHOTS
   
 ### AUTHENTICATON SCREEN
-  ![Authentication Screenshot](/../screenshots/screenshots/auth.png?raw=true "Authentication Page")
+  ![Authentication Screenshot](/screenshots/auth.png?raw=true "Authentication Page")
   
 ### MENU SCREEN
-  ![Menu Screenshot](/../screenshots/screenshots/menu.png?raw=true "MENU")
+  ![Menu Screenshot](/screenshots/menu.png?raw=true "MENU")
   
 ### INSERT SCREEN
-  ![Insert Screenshot](/../screenshots/screenshots/insert.png?raw=true "Insert Page")
+  ![Insert Screenshot](/screenshots/insert.png?raw=true "Insert Page")
 
 ### INSERT SCREEN (If User Exists)
-  ![Insert_exist Screenshot](/../screenshots/screenshots/insert-exist.png?raw=true "Insert Exist Page")
+  ![Insert_exist Screenshot](/screenshots/insert-exist.png?raw=true "Insert Exist Page")
   
 ### DISPLAY SCREEN
-  ![Display Screenshot](/../screenshots/screenshots/display.png?raw=true "Display Page")
+  ![Display Screenshot](/screenshots/display.png?raw=true "Display Page")
   
 ### SEARCH SCREEN
-  ![Search Screenshot](/../screenshots/screenshots/search.png?raw=true "Search Page")
+  ![Search Screenshot](/screenshots/search.png?raw=true "Search Page")
   
 ### DELETE SCREEN
-  ![Delete Screenshot](/../screenshots/screenshots/delete.png?raw=true "Delete Page")
+  ![Delete Screenshot](/screenshots/delete.png?raw=true "Delete Page")
 
 ### DELETE AUTHENTICATION SCREEN
-  ![Delete_Auth Screenshot](/../screenshots/screenshots/delete-auth.png?raw=true "Delete Authentication Page")
+  ![Delete_Auth Screenshot](/screenshots/delete-auth.png?raw=true "Delete Authentication Page")
 
 ### UPDATE SCREEN
-  ![Update Screenshot](/../screenshots/screenshots/update.png?raw=true "Update Page")
+  ![Update Screenshot](/screenshots/update.png?raw=true "Update Page")
 
 ### SORT SCREEN
-  ![Sort Screenshot](/../screenshots/screenshots/sort.png?raw=true "Sort Page")
+  ![Sort Screenshot](/screenshots/sort.png?raw=true "Sort Page")
 
 ### EXIT SCREEN
-  ![Exit Screenshot](/../screenshots/screenshots/exit.png?raw=true "Exit Page")
+  ![Exit Screenshot](/screenshots/exit.png?raw=true "Exit Page")
    
    
 ## Enjoy !!
