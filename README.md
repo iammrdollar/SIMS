@@ -27,7 +27,7 @@ First Sem Project (B.Tech CSE) (Lovely Professional University)
 ## SCREENSHOTS
   
 ### AUTHENTICATON SCREEN
-  ![Authentication Screenshot](screenshots/auth.png?raw=true "Authentication Page")
+  ![Authentication Screenshot](./screenshots/auth.png?raw=true "Authentication Page")
   
 ### MENU SCREEN
   ![Menu Screenshot](screenshots/menu.png?raw=true "MENU")
