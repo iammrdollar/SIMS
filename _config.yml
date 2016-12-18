@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 gems:
   - jekyll-seo-tag
+  - jekyll-sitemap
 title: Student Information Management System in C
 description: Student Information Management System Written In C. Contains basic functionalities like Authentication, Insert, Display, Search, Delete, Update and Sort (Uses Bubble Sorting). Also have functionality to check if the user exist while inserting data and Re-Authentication on deletion of a record.
 url: https://iammrdollar.github.io/SIMS/
