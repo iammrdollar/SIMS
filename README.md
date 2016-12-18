@@ -64,6 +64,6 @@ First Sem Project (B.Tech CSE) (Lovely Professional University)
 
 
 # Follow me on 
-## Twitter : https://twitter.com/iammrdollar
-## Instagram : https://www.instagram.com/iammrdollar/
-## Codepen : http://codepen.io/iammrdollar/
+## Twitter : [@iammrdollar](https://twitter.com/iammrdollar "Twitter @iammrdollar")
+## Instagram : [@iammrdollar](https://www.instagram.com/iammrdollar/ "Instagram @iammrdollar")
+## Codepen : [@iammrdollar](http://codepen.io/iammrdollar/ "Codepen @iammrdollar")
