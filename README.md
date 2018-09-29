@@ -1,6 +1,4 @@
-# LPU SIMS 
-# Student Information Management System (C Language)
-First Sem Project (B.Tech CSE) (Lovely Professional University)
+# Student Information Management System (SIMS) (C Language)
 
 ## AUTHENTICATION CREDENTIALS
     Username : username
@@ -61,7 +59,3 @@ First Sem Project (B.Tech CSE) (Lovely Professional University)
    
    
 ## Enjoy !!
-# Follow me on 
- - Twitter  [@iammrdollar](https://twitter.com/iammrdollar "Twitter @iammrdollar")
- - Instagram  [@iammrdollar](https://www.instagram.com/iammrdollar/ "Instagram @iammrdollar")
- - Codepen  [@iammrdollar](http://codepen.io/iammrdollar/ "Codepen @iammrdollar")
